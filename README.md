@@ -8,5 +8,6 @@ En este curso vemos de todo:
 * Bla bla bla
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Y como un recordatorio: **Este readme.md es un chiste, un verdadero chiste**. Diseñado para practicar, si quieres ver el curso completo entra en [Curso de Github platzi](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Curso de Github platzi")
