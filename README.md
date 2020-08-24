@@ -6,5 +6,6 @@ En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * Bla bla bla
+* Creado por el increible Platzi Team
 
 Y como un recordatorio: **Este readme.md es un chiste, un verdadero chiste**. Diseñado para practicar, si quieres ver el curso completo entra en [Curso de Github platzi](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Curso de Github platzi")
